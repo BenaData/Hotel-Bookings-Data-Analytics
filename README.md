@@ -96,27 +96,6 @@ matplotlib   # Static visualisations
 seaborn      # Statistical plots
 plotly       # Interactive charts & world map
 ```
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/BenaData/Hotel-Bookings-Data-Analytics.git
-cd Hotel-Bookings-Data-Analytics
-```
-
-### 2. Install dependencies
-```bash
-pip install pandas numpy matplotlib seaborn plotly
-```
-
-### 3. Launch the notebook
-```bash
-jupyter notebook hotel_bookings_professional_eda.ipynb
----
-
 ## 📈 Business Recommendations Summary
 
 | Area | Recommendation |
